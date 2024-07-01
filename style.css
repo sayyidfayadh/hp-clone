@@ -1,0 +1,164 @@
+.head1{
+  background-color: #f5f5f5;
+  padding-left: 300px;  
+}
+.img1{
+  padding-left: 40px;
+}
+.head2{
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.search .fas{
+  position: absolute;
+  left: 1200px;
+}
+.cart-icon{
+  margin-right: 40px;
+}
+.nav-item{
+  font-size: large;
+}
+.c1{
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+.c1 h1{
+  font-size: 400%;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  border: 1px solid black;
+  top: 400px;
+}
+.c1 label{
+  font-weight: 400;
+  position: absolute;
+  top: 520px;
+  font-size: 35px;
+}
+
+.c2 {
+  display: flex;
+  position: relative;
+  
+}
+
+.c2{
+  background-color: #ccdef5
+}
+.c2 .head5{
+  width: 100%;
+  font-size: 400%;
+  background-color: #40defa;
+  display: flex;
+  position: absolute;
+  top: 0%;
+  left: 47%;
+  
+}
+.c2 .head6{
+position: relative;
+top: 70px;  
+}
+.c2 .head7{
+  position: relative;
+  top: 70px;
+}
+.content h1{
+  width: 100%;
+  font-size: 40px;
+  padding-left: 350px;
+}
+.content .head2{
+  width: 100%;
+  font-size: 40px;
+  padding-left: 350px;
+}
+.row{
+  padding-top: 50px;
+  justify-content: center;
+}
+.card{
+  
+  border: 1px solid black;
+}
+.card .head8{
+  background-color: rgb(3, 3, 32);
+  color: white;
+  text-align: center;
+  font-weight: lighter;
+  margin-bottom: -1px;
+  
+}
+.row h3{
+  background-color: rgb(3, 3, 32);
+  color: white;
+  text-align: center;
+  font-weight: lighter;
+  margin-bottom: -1px;
+  padding-bottom: 3PX;
+}
+.cont{
+padding-left: 100PX;
+padding-right: 100PX;
+}
+.end{
+  display: flex;
+  position: relative;
+}
+.head3{
+position: absolute;
+left: 350px;
+top: 70px;
+padding-left: 0px;
+
+
+}
+
+.head4{
+ 
+  position: relative;
+  top: 180px;
+  margin-top: 10PX;
+  padding: 30px;
+}
+.btn2{
+position: absolute;
+left: 63%;
+top: 75%
+}
+.footer {
+  background-color: #000;
+  color: #fff;
+  padding: 40px ;
+}
+.footer a {
+  color: #fff;
+  text-decoration: none;
+}
+.footer a:hover {
+  text-decoration: underline;
+}
+.footer .social-icons a {
+  margin-right: 15px;
+}
+.card{
+  overflow: hidden;
+}
+.img5 img{
+  height:400px;
+  width: 400px;
+  transition: scale 0.25s ease-out;
+  
+}
+.img5{
+  overflow: hidden;
+}
+
+.card img:hover{
+  scale: 1.15;
+
+}
