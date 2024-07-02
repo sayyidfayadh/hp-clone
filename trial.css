@@ -18,30 +18,3 @@
   top: 520px;
   font-size: 35px;
 }
-.c2 {
-  display: flex;
-  position: relative;
-  
-}
-
-.c2{
-  background-color: #ccdef5
-}
-.c2 .head5{
-  width: 100%;
-  font-size: 400%;
-  background-color: #40defa;
-  display: flex;
-  position: absolute;
-  top: 0%;
-  left: 47%;
-  
-}
-.c2 .head6{
-position: relative;
-top: 70px;  
-}
-.c2 .head7{
-  position: relative;
-  top: 70px;
-}
