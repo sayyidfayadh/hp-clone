@@ -14,9 +14,9 @@
   position: relative;
   
 }
-.search1 .fas{
+.search1 .btn{
   position: absolute;
-  left: 350px;
+  left: 320px;
 }
 .cart-icon{
   margin-right: 40px;
